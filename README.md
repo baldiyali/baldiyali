@@ -2,6 +2,8 @@
 
 I'm a Computer Science student who likes building practical tools that solve real problems, especially with AI and software development.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bal-diyali-8084513b2)
+
 ## 🔧 Featured project
 
 ### [AI Tech Support Assistant](https://github.com/baldiyali/Ai-tech-support-assistant)
@@ -25,3 +27,7 @@ An AI-powered troubleshooting assistant for small companies without an IT depart
 ## 🎯 What I'm looking for
 
 Internships and entry-level roles in software development and AI.
+
+## 📫 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/bal-diyali-8084513b2)
