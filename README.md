@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-I'm a Computer Science student who likes building practical tools that solve real problems, especially where AI meets IT support and everyday tech.
+I'm a Computer Science student who likes building practical tools that solve real problems, especially with AI and software development.
 
 ## 🔧 Featured project
 
@@ -24,4 +24,4 @@ An AI-powered troubleshooting assistant for small companies without an IT depart
 
 ## 🎯 What I'm looking for
 
-Internships and entry-level roles in IT support, software engineering, and applied AI.
+Internships and entry-level roles in software development and AI.
